@@ -1,7 +1,7 @@
-# Devworkshop_API
-Nodejs Back End API for devworkshop website using Express and MongoDB
+#Workshop_API
+Nodejs Back End API for workshop website using Express and MongoDB
 
-> Backend API for devworkshopr application.
+> Backend API for workshopr application.
 
 ## Install Dependencies
 
