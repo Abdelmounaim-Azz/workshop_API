@@ -202,7 +202,7 @@ exports.resetPassword = asyncHandler(async (req, res, next) => {
 });
 
 /**
- * @desc    Confirm Email
+ * @desc    confirm Email
  * @route   GET /api/v1/auth/confirmemail
  * @access  Public
  */
